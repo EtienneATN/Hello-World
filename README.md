@@ -61,7 +61,8 @@ http://workshop.chromeexperiments.com/stars/
 http://uscience.org/compit2014/
 http://uscience.org/files/parametric.html
 
-
+===================3D model repository====================
+Started conversation with Pawel Morawski and Robert Ginter in Poland. See email correspondence. 
 
 
 ================= Message to +360 degrees (Car visualizer) =============
@@ -72,6 +73,7 @@ So I was basically wondering if you would be ready to share the code of your car
 All the best,
 Etienne
 +47 468 10 718
+
 
 
 ======================GIT HUB Documentation =========================0
